@@ -1,3 +1,6 @@
+# [Github Documentation](https://docs.github.com/en)
+### [Authentication](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
 ## Issue
 
 1. To create an issue, visit the [Issues](https://github.com/hyang-gi/week1-repo/issues) section under the repository and click on New Issue
